@@ -1,6 +1,16 @@
 # card-learner
 一个融合艾宾浩斯遗忘曲线学习法与抽卡玩法的趣味Web应用
-# 趣味学习助手
+
+     该程序使用了 AI 辅助开发：
+     
+     -使用了 DeepSeek AI 助手进行代码生成、优化建议
+     
+      和问题排查 (https://www.deepseek.com/)
+        
+      AI 辅助范围：架构设计、代码优化、文档编写
+
+
+趣味学习助手
 学习分心怎么办？当然一边分心一边学习,比番茄钟好用的学习工具！
 
 ![mm4tmigw.png](https://fghdz.top/usr/uploads/2026/02/106136410.png)
