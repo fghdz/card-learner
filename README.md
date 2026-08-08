@@ -240,7 +240,7 @@
 card-learner/
 ├── index.php # 主程序文件
 ├── admin.php # 管理员后台
-├── data/ # 数据目录
+├── data/ # 数据目录（请勿删除该目录）
 │ ├── users.php # 用户列表
 │ ├── config.php # 管理员配置文件
 │ └── user_data/ # 用户数据文件
